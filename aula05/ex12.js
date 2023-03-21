@@ -1,3 +1,4 @@
+//Princípio .filter
 let alunos = [
     {nome: "joão", idade: 15},
     {nome: "josé", idade: 18},
